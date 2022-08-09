@@ -16,7 +16,7 @@ Data Scientist
 ## <i class="fas fa-briefcase"></i> Experience
 
 `2021-Present`
-![](https://media-exp2.licdn.com/dms/image/C4D0BAQGdXCjN4SZSRA/company-logo_200_200/0/1605113693042?e=2147483647&v=beta&t=apSulYdDEIgXapQWznbc1gVome4no6htZmkzGb_FCks){height=1cm} 
+<img src="https://pbs.twimg.com/profile_images/1326568947773288448/UJdkzxQ7_400x400.jpg" style="width:2em; height:3em;" /> 
 **Data Scientist**, 
 [National Innovation Centre for Data](https://www.nicd.org.uk), 
 *Newcastle upon Tyne*
