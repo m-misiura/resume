@@ -5,15 +5,15 @@ title: Maciej Misiura's CV
 # Maciej Misiura
 Data Scientist
 
-<a href="maciekmisiura@gmail.com"><i class="fas fa-envelope"></i>maciekmisiura@gmail.com</a> - <i class="fas fa-phone"></i> +44 (0)7790 597 206 
+<a href="maciekmisiura@gmail.com"><i class="fas fa-envelope"></i> maciekmisiura@gmail.com</a> - <i class="fas fa-phone"></i> +44 (0)7790 597 206 
 
 <div id="webaddress">
-  <a href="https://uk.linkedin.com/in/maciej-misiura-1a97681b8"><i class="fab fa-linkedin"></i> LinkedIn Profile</a> - 
-  <a href="https://github.com/m-misiura"><i class="fab fa-github"></i> GitHub Profile</a> - 
-  <a href="https://www.researchgate.net/profile/Maciej-Misiura"><i class="fa-brands fa-researchgate"></i> ResearchGate Profile</a>
+  <a href="https://uk.linkedin.com/in/maciej-misiura-1a97681b8"><i class="fab fa-linkedin"></i> Maciej Misiura</a> - 
+  <a href="https://github.com/m-misiura"><i class="fab fa-github"></i> m-misiura</a> - 
+ 
 </div>
 
-## Experience
+## <i class="fas fa-briefcase"></i> Experience
 
 `2021-Present`
 **Data Scientist**, [National Innovation Centre for Data](https://www.nicd.org.uk), *Newcastle upon Tyne*
@@ -44,7 +44,7 @@ Data Scientist
 - Demonstrated strong independent research skills and initiative by creating a large database of North East-based companies, which was utilised across regional offices for business development and client targeting
 - Developed an eye for detail during monthly case law presentations
 
-## Education
+## <i class="fas fa-graduation-cap"></i> Education
 
 `2016-2021`
 **PhD Applied Mathematics and Statistics**, [Newcastle University](https://www.ncl.ac.uk), *Newcastle upon Tyne*,
@@ -63,11 +63,11 @@ Data Scientist
 - Delivered a 5,000 word dissertation describing predictive models of basketball matches
 - Displayed strong analytical skills through extension applicaton of quantative approaches to a variety of complex problems, including analysis of healthcare data
 
-## Publications
+## <i class="fas fa-book"></i> Publications
 
 Publication list is available on [ResearchGate](https://www.researchgate.net/profile/Maciej-Misiura)
 
-## Software
+## <i class="fas fa-laptop"></i> Software
 
 ### <i class="fab fa-python"></i> Python
 
