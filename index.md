@@ -15,7 +15,8 @@ Data Scientist
 ## <i class="fas fa-briefcase"></i> Experience
 
 `2021-Present`
- ### **Data Scientist**, [National Innovation Centre for Data](https://www.nicd.org.uk), *Newcastle upon Tyne* 
+### **Data Scientist**, [National Innovation Centre for Data](https://www.nicd.org.uk), *Newcastle upon Tyne* 
+
 - Managed a project on building interpretable tree-ensemble and uplift models to better understand customer churn and improve retention rates of a large software company's flagship product
 - Led the design and development of a recommendation system to facilitate onboarding of new customers of a large software company
 - Co-developed an end-to-end classification model ranking prospective customers of a leading real estate consultancy to improve the effectiveness of marketing campaigns
