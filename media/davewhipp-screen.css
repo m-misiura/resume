@@ -208,6 +208,11 @@ ul.b {
 	list-style-type: square;
   }
 
+.img{
+    float: left;
+    margin-right:1rem;
+}
+
 /*
 @media only screen and (max-width: 480px) {
 	make one column somehow...

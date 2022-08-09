@@ -18,12 +18,16 @@ PhD-educated Data Scientist, specialising in statistics and machine learning, wi
 
 ## <i class="fas fa-briefcase"></i> Experience
 
-<img align="left" src="https://pbs.twimg.com/profile_images/1326568947773288448/UJdkzxQ7_400x400.jpg" style="width: 2em;">
-**Data Scientist**<br>  
-[National Innovation Centre for Data](https://www.nicd.org.uk)<br> 
-*Newcastle upon Tyne*<br>  
-2021-Present  
-
+<div>
+  <svg class="img" width="50" height="50" >
+    <rect width="50" height="50" style="fill:black;"/>
+  </svg>
+  <p>
+    Line 1
+    <br>
+    Line 2
+  </p>
+</div>
 
 - Managed a project on building interpretable tree-ensemble and uplift models to better understand customer churn and improve retention rates of a large software company's flagship product
 - Led the design and development of a recommendation system to facilitate onboarding of new customers of a large software company
