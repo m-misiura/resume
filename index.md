@@ -69,18 +69,18 @@ Publication list is available on [ResearchGate](https://www.researchgate.net/pro
 
 ## Software
 
-### Python <i class="fab fa-python"></i>
+### <i class="fab fa-python"></i> Python
 
-(NumPy, SciPy, pandas, scikit-learn, PyTorch, Tensorflow)
+NumPy, SciPy, pandas, scikit-learn, PyTorch, Tensorflow
 
-### R <i class="fab fa-r-project"></i>
+### <i class="fab fa-r-project"></i> R 
 
-(Tidyverse, Tidymodels, jags, Stan)
+Tidyverse, Tidymodels, jags, Stan
 
-### Databricks <i class="fas fa-layer-group"></i>
+### <i class="fas fa-layer-group"></i> Databricks 
 
-(MLflow, Spark MLlib, XGBoost, Spark SQL)
+MLflow, Spark MLlib, XGBoost, Spark SQL
 
-### Version Control <i class="fab fa-github"></i>
+### <i class="fab fa-github"></i> Version Control
 
-(Git, GitHub)
+Git, GitHub
