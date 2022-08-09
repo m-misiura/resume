@@ -3,9 +3,7 @@ layout: cv
 title: Maciej Misiura's CV
 ---
 # Maciej Misiura
-Data Scientist
-
-PhD-educated Data Scientist with an expertise in statistics and machine learning. 
+**Data Scientist**
 
 <a href="maciekmisiura@gmail.com"><i class="fas fa-envelope"></i> maciekmisiura@gmail.com</a> - <i class="fas fa-phone"></i> +44 (0)7790 597 206 
 
@@ -13,6 +11,8 @@ PhD-educated Data Scientist with an expertise in statistics and machine learning
   <a href="https://uk.linkedin.com/in/maciej-misiura-1a97681b8"><i class="fab fa-linkedin"></i> Maciej Misiura</a> - 
   <a href="https://github.com/m-misiura"><i class="fab fa-github"></i> m-misiura</a> 
 </div>
+
+*Summary*: PhD-educated Data Scientist, specialising in statistics and machine learning with proven analytical, communication and management skills developed in both business and academic environments. 
 
 ## <i class="fas fa-briefcase"></i> Experience
 
