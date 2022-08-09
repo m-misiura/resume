@@ -164,6 +164,16 @@ a:hover {
 	color:rgb(16, 25, 108)
 }
 
+a:link {
+	color:rgb(16, 25, 108)
+  }
+  
+/* visited link */
+a:visited {
+	color: rgb(166, 14, 123);
+  }
+  
+
 #webaddress {
 	margin-top: 1em;
 	position: relative;
