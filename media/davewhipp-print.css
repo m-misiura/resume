@@ -156,7 +156,7 @@ h3 {
 
 a {
 	color: inherit;
-	text-decoration:none
+	text-decoration:underline
 }
 
 a:hover {
@@ -190,5 +190,23 @@ strong {
 	visibility: hidden;
 }
 
-
+/* unvisited link */
+a:link {
+	color: rgb(43, 0, 255);
+  }
+  
+  /* visited link */
+  a:visited {
+	color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+	color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+	color: blue;
+  }
 

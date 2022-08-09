@@ -9,7 +9,7 @@ Data Scientist
 
 <div id="webaddress">
   <a href="https://uk.linkedin.com/in/maciej-misiura-1a97681b8"><i class="fab fa-linkedin"></i> Maciej Misiura</a> - 
-  <a href="https://github.com/m-misiura"><i class="fab fa-github"></i> m-misiura</a> - 
+  <a href="https://github.com/m-misiura"><i class="fab fa-github"></i> m-misiura</a> 
  
 </div>
 
