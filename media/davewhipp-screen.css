@@ -35,13 +35,6 @@ ol, ul {
 	list-style: inside;
 }
 
-ul ul {
-	list-style: circle;
-}
-
-ol ol {
-	list-style: circle;
-}
 blockquote, q {
 	quotes: none;
 }
