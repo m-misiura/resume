@@ -48,6 +48,7 @@ Data Scientist
 
 `2016-2021`
 **PhD Applied Mathematics and Statistics**, [Newcastle University](https://www.ncl.ac.uk), *Newcastle upon Tyne*,
+
 **Thesis**: *Mathematical and statistical modelling for a more efficient and sustainable pig production*:
 - Investigated ways of improving environmental sustainability of commercial pig production systems through an interdisciplinary approach encompassing computational biology, precision agriculture, nutrition, data science, systematic reviews and meta-analyses
 - Presented research on smart agriculture at large international conferences, including talks at [EAAP](https://hal.inrae.fr/hal-03039253) and [ASAS](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6666733/)
@@ -57,6 +58,7 @@ Data Scientist
 
 `2011-2015`
 **Mathematics and Statistics MMathStat, 2:1**, [Newcastle University](https://www.ncl.ac.uk), *Newcastle upon Tyne*,
+
 **Thesis**: *Bayesian analysis of paired comparison data*:
 - Delivered a 5,000 word dissertation describing predictive models of basketball matches
 - Displayed strong analytical skills through extension applicaton of quantative approaches to a variety of complex problems, including analysis of healthcare data
