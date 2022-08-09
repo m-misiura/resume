@@ -19,9 +19,9 @@ PhD-educated Data Scientist, specialising in statistics and machine learning, wi
 ## <i class="fas fa-briefcase"></i> Experience
 
 <img align="left" src="https://pbs.twimg.com/profile_images/1326568947773288448/UJdkzxQ7_400x400.jpg" style="width: 2em;">
-**Data Scientist**\  
-[National Innovation Centre for Data](https://www.nicd.org.uk)\  
-*Newcastle upon Tyne*\  
+**Data Scientist**<br>  
+[National Innovation Centre for Data](https://www.nicd.org.uk)<br> 
+*Newcastle upon Tyne*<br>  
 2021-Present  
 
 
