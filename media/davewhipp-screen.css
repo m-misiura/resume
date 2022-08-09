@@ -161,7 +161,7 @@ a {
 }
 
 a:hover {
-	color:#39f
+	color:rgb(16, 25, 108)
 }
 
 #webaddress {
@@ -203,22 +203,3 @@ ul.b {
 	make one column somehow...
 }*/
 
-/* unvisited link */
-a:link {
-	color: rgb(43, 0, 255);
-  }
-  
-  /* visited link */
-  a:visited {
-	color: green;
-  }
-  
-  /* mouse over link */
-  a:hover {
-	color: hotpink;
-  }
-  
-  /* selected link */
-  a:active {
-	color: blue;
-  }
