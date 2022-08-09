@@ -14,7 +14,7 @@ title: Maciej Misiura's CV
 
 ## <i class="fa-solid fa-highlighter"></i> Summary: 
 
-PhD-educated Data Scientist, specialising in statistics and machine learning, with proven analytical, communication and management skills developed in both business and academic environments. 
+PhD-educated Data Scientist, specialising in statistics and machine learning, with proven analytical, communication and management skills developed in business and academic environments. In my current role, I help local, national and international companies to develop and implement data-driven solutions to their business problems.
 
 ## <i class="fas fa-briefcase"></i> Experience
 
