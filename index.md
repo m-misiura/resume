@@ -8,7 +8,7 @@ Data Scientist
 <a href="maciekmisiura@gmail.com">maciekmisiura@gmail.com</a> - +44 (0)7790 597 206 - 
 
 <div id="webaddress">
-  <a href="https://uk.linkedin.com/in/maciej-misiura-1a97681b8"><i class="fas fa-home"></i> Maciej Misiura</a> - 
+  <a href="https://uk.linkedin.com/in/maciej-misiura-1a97681b8"><i class="fab fa-linkedin"></i> Maciej Misiura</a> - 
   <a href="https://github.com/m-misiura"><i class="fab fa-github"></i> m-misiura</a> - 
   <a href="https://www.researchgate.net/profile/Maciej-Misiura"><i class="fa-brands fa-researchgate"></i> Maciej Misiura</a> - 
 </div>
