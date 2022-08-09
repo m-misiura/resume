@@ -12,7 +12,7 @@ title: Maciej Misiura's CV
   <a href="https://github.com/m-misiura"><i class="fab fa-github"></i> m-misiura</a> 
 </div>
 
-### Summary: 
+## <i class="fa-solid fa-highlighter"></i> Summary: 
 
 PhD-educated Data Scientist, specialising in statistics and machine learning, with proven analytical, communication and management skills developed in both business and academic environments. 
 
