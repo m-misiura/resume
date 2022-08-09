@@ -81,10 +81,9 @@ Data Scientist
 **Mathematics and Statistics MMathStat, 2:1**, [Newcastle University](https://www.ncl.ac.uk), *Newcastle upon Tyne*,
 
 **Thesis**: *Bayesian analysis of paired comparison data*:
-
 - Delivered a 5,000 word dissertation describing predictive models of basketball matches
-
 - Displayed strong analytical skills through extension applicaton of quantative approaches to a variety of complex problems, including analysis of healthcare data
+
 ## Publications
 
 Publication list is available on [ResearchGate](https://www.researchgate.net/profile/Maciej-Misiura)
