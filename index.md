@@ -44,7 +44,7 @@ PhD-educated Data Scientist, specialising in statistics and machine learning, wi
 
 - Contracted to undertake an investigation into quantifying environmental impacts of the UK commercial pig production systems over the last two decades
 - Displayed strong analytical skills through the visualisation and interpretation of complex, commercial data
-- Delivered a 10,000-word written report outlining the main findings to the Agriculture and Horticulture Development Board, which is expected to inform future government policy on identifying effective strategies to minimise environmental impacts of raising livestock animals
+- Delivered a 10,000-word report outlining the main findings to the Agriculture and Horticulture Development Board, which should inform future government policy on identifying effective strategies to minimise environmental impacts of raising livestock animals
 
 `2015-2016`
 **Indirect Tax Analyst**, [Deloitte](https://www2.deloitte.com/uk/en.html), *Newcastle upon Tyne*
@@ -53,7 +53,6 @@ PhD-educated Data Scientist, specialising in statistics and machine learning, wi
 - Improved technical writing skills by drafting engagement letters and client reports
 - Performed VAT costs and savings reviews
 - Demonstrated strong independent research skills and initiative by creating a large database of North East-based companies, which was utilised across regional offices for business development and client targeting
-- Developed an eye for detail during monthly case law presentations
 
 ## <i class="fas fa-graduation-cap"></i> Education
 
