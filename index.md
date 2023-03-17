@@ -51,7 +51,6 @@ PhD-educated Data Scientist, specialising in statistics and machine learning, wi
 
 - Delivered tailored-made tax advice to clients from a variety of sectors including education, automotive, engineering and charity
 - Improved technical writing skills by drafting engagement letters and client reports
-- Performed VAT costs and savings reviews
 - Demonstrated strong independent research skills and initiative by creating a large database of North East-based companies, which was utilised across regional offices for business development and client targeting
 
 ## <i class="fas fa-graduation-cap"></i> Education
