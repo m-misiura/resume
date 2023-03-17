@@ -73,8 +73,7 @@ PhD-educated Data Scientist, specialising in statistics and machine learning, wi
 
 **Thesis**: *Bayesian analysis of paired comparison data*:
 
-- Delivered a 5,000 word dissertation describing predictive models of basketball matches
-- Displayed strong analytical skills through extension application of quantitative approaches to a variety of complex problems, including analysis of healthcare data
+- Delivered a 5,000 word dissertation describing predictive models of basketball matches and entered the Kaggle competition to predict the outcomes of the March Madness tournament
 
 ## <i class="fas fa-book"></i> Publications
 
