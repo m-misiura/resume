@@ -71,7 +71,7 @@ PhD-educated Data Scientist, specialising in statistics and machine learning, wi
 `2011-2015`
 **Mathematics and Statistics MMathStat, 2:1**, [Newcastle University](https://www.ncl.ac.uk), *Newcastle upon Tyne*,
 
-**Thesis**: *Bayesian analysis of paired comparison data*:
+**Thesis**: [Bayesian analysis of paired comparison data](https://www.mas.ncl.ac.uk/library/display_pdf.php?id=304):
 
 - Delivered a 5,000 word dissertation describing predictive models of basketball matches and entered the Kaggle competition to predict the outcomes of the March Madness tournament
 
