@@ -64,7 +64,6 @@ PhD-educated Data Scientist, specialising in statistics and machine learning, wi
 - Investigated ways of improving environmental sustainability of commercial pig production systems through an interdisciplinary approach encompassing computational biology, precision agriculture, nutrition, data science, systematic reviews and meta-analyses
 - Presented research on smart agriculture at large international conferences, including talks at [EAAP](https://hal.inrae.fr/hal-03039253) and [ASAS](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6666733/)
 - Authored 6 scientific articles, including 4 first author papers
-- Passed with no corrections
 - Awarded the [2018 British Society of Animal Science Murray Black Award](https://bsas.org.uk/assets/uploads/docs/entries/maciej_marek_misiura_2018_murray_black.pdf) (£1,500) for an outstanding research proposal
 
 `2011-2015`
