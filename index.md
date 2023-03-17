@@ -84,7 +84,7 @@ Publication list is available on [ResearchGate](https://www.researchgate.net/pro
 
 ### <i class="fab fa-python"></i> Python
 
-NumPy, SciPy, pandas, scikit-learn, PyTorch
+NumPy, SciPy, pandas, scikit-learn, PyTorch, Hugging Face
 
 ### <i class="fab fa-r-project"></i> R
 
