@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Maciej Misiura's CV
+title: CV
 ---
 # Maciej Misiura
 
