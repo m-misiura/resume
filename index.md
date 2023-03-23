@@ -37,7 +37,7 @@ PhD-educated Data Scientist, specialising in statistics and machine learning, wi
 - Produced several research reports for the [Applied Research Centre for Defense and Security](https://www.turing.ac.uk/research/research-projects/applied-research-centre-defence-and-security), including proof-of-concept work on:
   - evaluating the performance of different uncertainty quantification methods with a transformer-based natural language model
   - comparing the uncertainty-unaware few shot deep learning models to their uncertainty-aware, Bayesian counterparts
-  - identifying the state-of-the-art neural networks for key word identification in video footage
+  - identifying the state-of-the-art neural networks for key word identification in videos
 
 `2018-2019`
 **Data Scientist Placement**, [Newcastle University](https://www.ncl.ac.uk), *Newcastle upon Tyne*
