@@ -137,7 +137,6 @@ table {
 /* end of reset */
 
 
-
 body {
 	font: normal normal 400;
 	font-size: 12pt;
@@ -199,6 +198,7 @@ li ul {
 	left: 0;
 	width: 100%;
 	margin-top: 0.25em;
+	list-style: square inside;
 }
 
 h1,
