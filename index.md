@@ -42,7 +42,7 @@ PhD-educated Data Scientist, specialising in statistics and machine learning, wi
 
 - Contracted with the [the Agriculture and Horticulture Development Board](https://ahdb.org.uk) to undertake an investigation into quantifying environmental impacts of the UK commercial livestock production systems over the last two decades
 - Displayed strong analytical skills through the visualisation and interpretation of complex, commercial data
-- Delivered a 10,000-word report, which should inform future government policy on identifying effective strategies to minimise environmental impacts of raising livestock animals
+- Delivered a 10,000-word report, which should inform future government policy on identifying effective strategies to minimise environmental impacts of raising livestock
 
 `2015-2016`
 **Indirect Tax Analyst**, [Deloitte](https://www2.deloitte.com/uk/en.html), *Newcastle upon Tyne*
