@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: CV
+title: Maciej Misiura CV
 ---
 # Maciej Misiura
 
@@ -17,7 +17,7 @@ PhD-educated Data Scientist, specialising in statistics and machine learning, wi
 
 ## <i class="fas fa-briefcase"></i> Experience
 
-`2021-Present`
+`2021-Now`
 **Data Scientist**, [National Innovation Centre for Data](https://www.nicd.org.uk/), *Newcastle upon Tyne*
 
 - Headed a project on training and validating a large language model with uncertainty quantification capabilities to improve performance and decision making for an intelligence and security organisation
