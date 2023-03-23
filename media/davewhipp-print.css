@@ -176,6 +176,7 @@ ul {
 	left: 25%;
 	width: 75%;
 	margin-bottom: 1em;
+	list-style-position: outside;
 	/*margin-top: -0.5em;*/
 }
 
