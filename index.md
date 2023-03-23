@@ -4,8 +4,6 @@ title: CV
 ---
 # Maciej Misiura
 
-**Data Scientist**
-
 <a href="maciekmisiura@gmail.com"><i class="fas fa-envelope"></i> maciekmisiura@gmail.com</a> - <i class="fas fa-phone"></i> +44 (0)7790 597 206
 
 <div id="webaddress">
