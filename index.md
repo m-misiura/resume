@@ -13,35 +13,37 @@ title: Maciej Misiura CV
 
 ## <i class="fa-solid fa-highlighter"></i> Summary
 
-PhD-educated Data Scientist, specialising in statistics and machine learning, with proven analytical, communication and management skills developed in business and academic environments. In my current role, I help local, national and international companies to develop and implement data-driven solutions to their business problems.
+PhD-educated machine learning practitioner specializing in Generative AI safety. I develop open source methods for safeguarding and evaluating AI models to ensure reliable and responsible deployment at a large scale. 
 
 ## <i class="fas fa-briefcase"></i> Experience
 
-`2021-Now`
+`2024-Now`
+**Machine Learning Engineer**, [Red Hat](https://www.redhat.com), *Newcastle upon Tyne*
+
+- Member of the [AI Safety team](https://trustyai.org/docs/main/main) for [the Red Hat Openshift AI platform](https://www.redhat.com/en/products/ai/openshift-ai), focusing on the development and implementation of safety measures for large language models (LLMs) and generative AI systems:
+  - [engineered](https://github.com/trustyai-explainability/guardrails-detectors) and [productionized](https://github.com/opendatahub-io/odh-model-controller/blob/incubating/config/runtimes/hf-detector-template.yaml) a KServe serving runtime to streamline the deployment and management of LLM guardrails, directly enhancing the safety capabilities of the Red Hat OpenShift AI platform.
+  - developed [a novel safety provider](https://github.com/trustyai-explainability/llama-stack-provider-trustyai-fms) for [llama stack](https://github.com/llamastack/llama-stack), integrating the IBM Research [FMS Orchestrator](https://github.com/foundation-model-stack/fms-guardrails-orchestrator) for content moderation; this component was officially adopted and included in [Red Hat's main Llama Stack distribution](https://github.com/opendatahub-io/llama-stack-distribution), 
+  - co-led the integration efforts of NVidia's NeMo Guardrails into [Red Hat's LLM ecosystem](https://github.com/opendatahub-io/NeMo-Guardrails)
+  - ran [a series of upskilling and mentoring sessions](https://github.com/m-misiura/nlp-skills) for engineers without prior experience in machine learning to increase the overall AI literacy within the team
+  - delivered [a workshop on LLM safety and evaluation](https://m-misiura.github.io/workshop-evaluation-safeguarding-on-openshift/#/title-slide) for the IBM Research team at Trinity College Dublin
+  - contributed to [the whitepaper on AI trustworthiness](https://ai4humanity.ai/pdf/GDC%20AI%20For%20Humanity%20Track%20Report%20-%20v2.0.pdf) as part the inaugural AI for Humanity Track at the [Global Digital Collaboration Conference](https://globaldigitalcollaboration.org/agenda?day=2025-07-01)
+  - invented a novel low-code framework to simplify and accelerate the implementation of AI guardrails, resulting in a filed US patent application
+
+`2021-2024`
 **Data Scientist**, [National Innovation Centre for Data](https://www.nicd.org.uk/), *Newcastle upon Tyne*
 
-- Headed a project on training and validating a large language model with uncertainty quantification capabilities to improve performance and decision making for an intelligence and security organisation
-- Managed a project on building interpretable tree-ensemble and uplift models to better understand customer churn and improve retention rates of a large software company's flagship product
-- Led the design and development of a recommendation system to facilitate onboarding of new customers of a large software company
-- Assisted clients in migrating their existing data science projects to Databricks
-- Co-developed an end-to-end classification model ranking prospective customers of a leading real estate consultancy to improve the effectiveness of marketing campaigns
-- Deployed machine learning models to production using different technologies, including Datarbricks and AWS Lambda
-- Mentored team members on the use of Data Science Process frameworks, such as CRISP-DM and Data-Driven Scrum to efficiently manage data science projects
-- Created and delivered teaching content to clients on:
-  - classification on imbalanced data
-  - interpretable machine learning
-  - causal inference in machine learning
-  - MLOps
-- Produced several research reports for the [Applied Research Centre for Defense and Security](https://www.turing.ac.uk/research/research-projects/applied-research-centre-defence-and-security), including proof-of-concept work on:
-  - evaluating the performance of different uncertainty quantification methods with a transformer-based natural language model
-  - comparing the uncertainty-unaware few shot deep learning models to their uncertainty-aware, Bayesian counterparts
-  - identifying the state-of-the-art neural networks for key word identification in videos
+- [Headed a 4-month project](https://www.nicd.org.uk/case-studies/naimuri) for an intelligence and security organisation to train and validate a large language model with uncertainty quantification capabilities via novel entropy-based method 
+- [Led a 3-month project for a digital marketing company](https://www.nicd.org.uk/case-studies/evolved-search) to modernise search engine optimisation strategies using embedding-based models and clustering techniques
+- [Led a 3-month project for a software company](https://www.nicd.org.uk/case-studies/infotel-uk-consulting), developing a system to identify and anonymise personal data in legal documents
+- [Managed an 18-month project for a large software company](https://www.nicd.org.uk/case-studies/sage), building explainable tree-ensemble and uplift models to reduce customer churn and enhance customer retention strategies
+- Acted as a technical advisor on a [project about using deep learning to analyse chemical compounds ](https://www.nicd.org.uk/case-studies/akzonobel-nmr)
+- Developed a prototype of a GenAI system for a legal company to summarise key information from legal documents as part of the conveyancing process
+- Delivered a keynote talk on [Perspectives on Generative AI](https://www.youtube.com/watch?v=C1RghyFW3yA) to a non-technical audience, explaining the opportunities and challenges of deploying generative AI systems in practice
 
 `2018-2019`
 **Data Scientist Placement**, [Newcastle University](https://www.ncl.ac.uk), *Newcastle upon Tyne*
 
 - Contracted with the [the Agriculture and Horticulture Development Board](https://ahdb.org.uk) to undertake an investigation into quantifying environmental impacts of the UK commercial livestock production systems over the last two decades
-- Displayed strong analytical skills through the visualisation and interpretation of complex, commercial data
 - Delivered a 10,000-word report, which should inform future government policy on identifying effective strategies to minimise environmental impacts of raising livestock
 
 `2015-2016`
@@ -58,9 +60,9 @@ PhD-educated Data Scientist, specialising in statistics and machine learning, wi
 
 **Thesis**: *Mathematical and statistical modelling for a more efficient and sustainable pig production*:
 
-- Investigated ways of improving environmental sustainability of commercial pig production systems through an interdisciplinary approach encompassing computational biology, precision agriculture, nutrition, data science, systematic reviews and meta-analyses
+- Investigated ways of improving environmental sustainability of commercial pig production systems through an interdisciplinary approach encompassing computational biology, mathematical modelling and statistical analysis
 - Presented research on smart agriculture at large international conferences, including talks at [EAAP](https://hal.inrae.fr/hal-03039253) and [ASAS](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6666733/)
-- Authored 6 scientific articles, including 4 first author papers
+- Authored 6 scientific articles, including [4 first author papers](https://www.researchgate.net/profile/Maciej-Misiura)
 - Awarded the [2018 British Society of Animal Science Murray Black Award](https://bsas.org.uk/assets/uploads/docs/entries/maciej_marek_misiura_2018_murray_black.pdf) (£1,500) for an outstanding research proposal
 
 `2011-2015`
@@ -70,23 +72,15 @@ PhD-educated Data Scientist, specialising in statistics and machine learning, wi
 
 - Delivered a 5,000 word dissertation describing predictive models of basketball matches and entered the Kaggle competition to predict the outcomes of the March Madness tournament
 
-## <i class="fas fa-book"></i> Publications
-
-Publication list is available on [ResearchGate](https://www.researchgate.net/profile/Maciej-Misiura)
-
 ## <i class="fas fa-laptop"></i> Software
 
 ### <i class="fab fa-python"></i> Python
 
-NumPy, SciPy, pandas, scikit-learn, PyTorch, Hugging Face
+transformers, vllm, lm-evaluation-harness, kserve
 
-### <i class="fab fa-r-project"></i> R
+### <i class="fas fa-layer-group"></i> Scalable ML 
 
-Tidyverse, Tidymodels, jags, Stan
-
-### <i class="fas fa-layer-group"></i> Databricks
-
-MLflow, Spark MLlib, XGBoost, Spark SQL
+Openshift, Kubernetes, Docker, Open Data Hub, Openshift AI
 
 ### <i class="fab fa-github"></i> Version Control
 

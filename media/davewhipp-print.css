@@ -168,7 +168,7 @@ p code {
 	width: 5%;
 	text-align: right;
 	right: -3.5%;
-	color: #06000072;
+	color: #00000072;
 }
 
 
@@ -236,7 +236,7 @@ h1+p {
 h2 {
 	/*section name, e.g. Summary etc*/
 	font-size: 1.1em;
-	color: rgb(170, 0, 0);
+	color: rgb(4, 4, 4);
 	margin-top: 2em;
 	position: relative;
 	top: 1.2em;
